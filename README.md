@@ -11,7 +11,7 @@ VocalAI is a Python application that enables voice-based interactions with OpenA
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/iluckykishore/VocalAI.git  
+   git clone https://github.com/kishorebabu-ms/VocalAI.git  
    ```  
 2. Install dependencies:  
    ```bash  
